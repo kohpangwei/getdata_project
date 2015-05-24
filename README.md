@@ -17,6 +17,4 @@ The variables are:
 
 Each variable represents the average over all measurements of that variable from the same subject doing the same activity. For example, the "tBodyAcc.mean...X" column represents the averages of all tBodyAcc.mean...X measurements over each (activity,subject) pair.
 
-
-
-
+The definitions and methodology behind each variable can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
